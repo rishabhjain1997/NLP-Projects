@@ -6,3 +6,4 @@ Link to the resources used while working on these projects -
 3. Krish Naik's tutorial on SMS Spam Classification: https://www.youtube.com/watch?v=fA5TSFELkC0&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=10
 4. Krish Naik's Word2Vec tutorial: https://www.youtube.com/watch?v=Otde6VGvhWM&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=11
 5. Stock Price Prediction using News Headlines: https://www.youtube.com/watch?v=h-LGjJ_oANs&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=12
+6. Fake News Detection: https://www.youtube.com/watch?v=MO5n5JaRotc
