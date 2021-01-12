@@ -8,3 +8,4 @@ Link to the resources used while working on these projects -
 5. Stock Price Prediction using News Headlines: https://www.youtube.com/watch?v=h-LGjJ_oANs&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=12
 6. Fake News Detection: https://www.youtube.com/watch?v=MO5n5JaRotc
 7. Word Embedding Tutorial: https://www.youtube.com/watch?v=TsXR7_vtusQ&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=21
+8. Fake News Classification using Tensorflow: https://www.youtube.com/watch?v=MXPh_lMRwAI&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=22
